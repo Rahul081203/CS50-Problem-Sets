@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: As it uses less time in a sorted array, as compared to any other, but takes more time in reversed than any other.
+
+sort2 uses: Merge Sort
+
+How do you know?: As it uses less time in sorted, reversed, and randomised array as compared to any other.
+
+sort3 uses: Selection Sort
+
+How do you know?: As it uses more time in a sorted array.
