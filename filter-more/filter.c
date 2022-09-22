@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
     if (filter == '?')
     {
         printf("Invalid filter.\n");
-        return 1;
+        return 1; 
     }
 
     // Ensure only one filter
